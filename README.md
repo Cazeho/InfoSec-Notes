@@ -1,3 +1,7 @@
+
+Link : https://notes.qazeer.io/
+
+
 Personal notes used as a way to keep trace of my experimentations over the
 years on attack vectors and digital forensics.
 
